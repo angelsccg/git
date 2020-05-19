@@ -1,0 +1,8 @@
+1、Please enter a commit message to explain why this merge is necessary.
+提示输入为何需要merge操作
+需要输入或者跳过这一步
+
+    按i键，进入插入（insert）描述操作，可以选择不输入
+    按Esc键，结束插入描述操作
+    按:wq，表示保存并结束本次操作
+    enter键即可结束本次错误信息
